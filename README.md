@@ -1,8 +1,10 @@
 # ProtocolLayout
 ProtocolLayout
+Preview：
+https://raw.githubusercontent.com/zealot2002/ProtocolLayout/master/protocol.jpg
 
 Usage:
-
+///
 ProtocolLayout ptl = view.findViewById(R.id.ptl);
         List<String> list = new ArrayList<>();
         list.add("我已经阅读并同意");
@@ -25,3 +27,4 @@ ProtocolLayout ptl = view.findViewById(R.id.ptl);
                         }
                     }
                 });
+///
