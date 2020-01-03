@@ -2,7 +2,7 @@
 ProtocolLayout
 Preview：
 
-![Alt text](https://raw.githubusercontent.com/zealot2002/ProtocolLayout/master/protocol.jpg)
+<img>https://raw.githubusercontent.com/zealot2002/ProtocolLayout/master/protocol.jpg)</img>
 
 
 Usage:
