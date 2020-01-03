@@ -4,8 +4,8 @@ Preview：
 https://raw.githubusercontent.com/zealot2002/ProtocolLayout/master/protocol.jpg
 
 Usage:
-<pre><code>
-ProtocolLayout ptl = view.findViewById(R.id.ptl);
+
+    ProtocolLayout ptl = view.findViewById(R.id.ptl);
         List<String> list = new ArrayList<>();
         list.add("我已经阅读并同意");
         for(int i=0;i<protocolBeanList.size();i++){
@@ -27,4 +27,3 @@ ProtocolLayout ptl = view.findViewById(R.id.ptl);
                         }
                     }
                 });
-</code></pre>
