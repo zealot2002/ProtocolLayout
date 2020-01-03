@@ -1,5 +1,4 @@
 # ProtocolLayout
-ProtocolLayout
 Preview：
 ![screenshot](https://raw.githubusercontent.com/zealot2002/ProtocolLayout/master/protocol.jpg)
 
